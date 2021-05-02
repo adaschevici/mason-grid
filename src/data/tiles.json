@@ -1,0 +1,109 @@
+{
+  "tiles": [
+    {
+      "color": "green",
+      "size": "lg",
+      "hasDot": false
+    },
+    {
+      "color": "blue",
+      "size": "lg",
+      "hasDot": true
+    },
+    {
+      "color": "orange",
+      "size": "sm",
+      "hasDot": true
+    },
+    {
+      "color": "orange",
+      "size": "sm",
+      "hasDot": true
+    },
+    {
+      "color": "orange",
+      "size": "lg",
+      "hasDot": false
+    },
+    {
+      "color": "green",
+      "size": "lg",
+      "hasDot": false
+    },
+    {
+      "color": "orange",
+      "size": "lg",
+      "hasDot": true
+    },
+    {
+      "color": "blue",
+      "size": "sm",
+      "hasDot": true
+    },
+    {
+      "color": "orange",
+      "size": "sm",
+      "hasDot": false
+    },
+    {
+      "color": "blue",
+      "size": "lg",
+      "hasDot": false
+    },
+    {
+      "color": "blue",
+      "size": "sm",
+      "hasDot": true
+    },
+    {
+      "color": "orange",
+      "size": "sm",
+      "hasDot": false
+    },
+    {
+      "color": "orange",
+      "size": "lg",
+      "hasDot": false
+    },
+    {
+      "color": "orange",
+      "size": "lg",
+      "hasDot": true
+    },
+    {
+      "color": "blue",
+      "size": "sm",
+      "hasDot": false
+    },
+    {
+      "color": "blue",
+      "size": "lg",
+      "hasDot": false
+    },
+    {
+      "color": "blue",
+      "size": "sm",
+      "hasDot": false
+    },
+    {
+      "color": "orange",
+      "size": "sm",
+      "hasDot": true
+    },
+    {
+      "color": "blue",
+      "size": "lg",
+      "hasDot": true
+    },
+    {
+      "color": "green",
+      "size": "lg",
+      "hasDot": true
+    },
+    {
+      "color": "blue",
+      "size": "lg",
+      "hasDot": false
+    }
+  ]
+}

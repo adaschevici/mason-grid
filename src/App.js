@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import data from "./data/tiles.json";
+import { Grid } from "./components/grid";
+import { Stats } from "./components/stats";
+import { SelectionProvider } from "./hooks";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <SelectionProvider>
+        <Stats tiles={data} />
+        <Grid tiles={data} />
+      </SelectionProvider>
     </div>
   );
 }
